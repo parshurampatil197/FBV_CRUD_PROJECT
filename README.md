@@ -5,6 +5,7 @@
 I have created Simple CRUD Project in Django Using Django ModelForm. created the function-based view.  
 We can define the get(), post(), patch(), and delete() methods so that we can perform the CRUD operations.
 
+![crud](https://user-images.githubusercontent.com/84769341/204024870-eed80e48-60c2-4ca3-b445-44655fededfb.png)
 
 
 ## Requirements
